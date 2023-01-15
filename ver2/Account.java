@@ -2,6 +2,7 @@ package ver2;
 
 public class Account {
     // Instance variable, only available inside this class.
+    // A comment for the GitHub Lab
     private double balance;
     private String name;
 
